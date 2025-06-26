@@ -14,6 +14,7 @@ This Power BI dashboard provides insights into **ShopNest’s** sales performanc
 - `report/ShopNest_Report.pbix`: Power BI file
 - `data/sales_data.csv`: Cleaned dataset used in the report
 - `visuals/dashboard_screenshot.png`: Dashboard preview
+- ShopNest_Report_Summary.pdf
 
 ## 🧰 Tools Used
 - Power BI
